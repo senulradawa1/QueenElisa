@@ -2,9 +2,20 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
-  ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  SESSION_ID: 'QUEENELISA;;;==QQvJzXmRHehFTcIFTbQdHN4hkN1hXMhhnZP50dylXQEFjNX5kM6VkTy1iejIkNSNEeOZ1Ypwd=69597147749',
+  ALIVE_REACT: '👤',
+  ALIVE_MESSAGE: `*👤 Hey Friends Iam Alive Now ,* 
+*I think this bots are useful*
+*to you . 😽💖*
+*Nice to meet you 🤝*
+*Thankyou 🌸 🪄* 
+
+*🌚Owner -🄲 🕊️🍭 ItZ Me Senul Radawa🖤🕊️✨*
+
+*http://Wa.me/±94710773101?text=_𝙷𝙸_|:♥️🧸_* 
+
+*🖇️ 𝙳𝚘 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚐𝚎𝚝 𝚊𝚕𝚕 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 ?*
+*𝚃𝚢𝚙𝚎 & 𝚂𝚎𝚗𝚍 - .menu or .list*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -17,24 +28,24 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+🕊️🍭 ItZ Me Senul Radawa🖤🕊️✨`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://tempmail1829:7W1Ji1KDtd5W5pdE@cluster0.w9oryfw.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'Senul Radawa Md',
+  OWNER_NAME: '🕊️🍭 ItZ Me Senul Radawa🖤🕊️✨',
+  OWNER_NUMBER: '94774179596',
+  SUDO: '94774179596',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '© 🕊️🍭 ItZ Me Senul Radawa🖤🕊️✨',
+  STICKER_AUTHOR: '🕊️🍭 ItZ Me Senul Radawa🖤🕊️✨',
+  STICKER_PACK: 'Senul',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90,
+  MAXIMUM_FILESIZE: 1500,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
